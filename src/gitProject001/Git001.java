@@ -11,6 +11,9 @@ public class Git001 {
 		
 		//new addition to feb 28
 		double gpa = 3.99;
+		
+		//Array creation for feb 28
+		int[] arr = new int[5];
 	}
 
 }
