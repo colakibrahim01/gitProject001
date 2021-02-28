@@ -7,6 +7,7 @@ public class Git001 {
 		int n = 0;
 		//Addition on feb 28
 		String s = "Ibrahim";
+		char c = 'C';
 		
 
 	}
