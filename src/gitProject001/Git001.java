@@ -9,7 +9,8 @@ public class Git001 {
 		String s = "Ibrahim";
 		char c = 'C';
 		
-
+		//new addition to feb 28
+		double gpa = 3.99;
 	}
 
 }
