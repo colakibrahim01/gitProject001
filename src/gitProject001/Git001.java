@@ -14,6 +14,9 @@ public class Git001 {
 		
 		//Array creation for feb 28
 		int[] arr = new int[5];
+		
+		//2D array [][] creation
+		double[][] arr2d = new double[3][3];
 	}
 
 }
